@@ -1,0 +1,51 @@
+==============================================================================
+
+ Copyright (C) 2007 - 2009, Merck Hung
+
+ HWTools --
+    This is a collection of tools related to BIOS development written by 
+    Merck Hung
+
+ Author : Merck Hung <merckhung@gmail.com>
+
+==============================================================================
+
+
+;
+; Text
+; 0x00  -   Black
+; 0x01  -   Blue
+; 0x02  -   Green
+; 0x03  -   Cyan
+; 0x04  -   Red
+; 0x05  -   Magenta
+; 0x06  -   Brown
+; 0x07  -   Light Gray
+; 0x08  -   Drak Gray
+; 0x09  -   Light Blue
+; 0x0A  -   Light Green
+; 0x0B  -   Light Cyan
+; 0x0C  -   Light Red
+; 0x0D  -   Light Magenta
+; 0x0E  -   Yellow
+; 0x0F  -   White
+;
+; Background
+; 0x00  -   Black
+; 0x10  -   Blue
+; 0x20  -   Green
+; 0x30  -   Cyan
+; 0x40  -   Red
+; 0x50  -   Magenta
+; 0x60  -   Brown
+; 0x70  -   Light Gray
+; 0x80  -   Blinking Black
+; 0x90  -   Blinking Blue
+; 0xA0  -   Blinking Green
+; 0xB0  -   Blinking Cyan
+; 0xC0  -   Blinking Red
+; 0xD0  -   Blinking Magenta
+; 0xE0  -   Blinking Brown
+; 0xF0  -   Blinking Light Gray
+;
+
